@@ -1,0 +1,1 @@
+<?php isset($TPL_ISI) ? $this->load->view($TPL_ISI) : 'Index belum di-load'; ?>

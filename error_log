@@ -1,0 +1,128 @@
+[22-Aug-2020 02:23:10 Asia/Jakarta] Order ID 1598037773564024253: transaction status = pending, fraud staus = accept
+[22-Aug-2020 02:25:46 Asia/Jakarta] Order ID 1598037928989976305: transaction status = pending, fraud staus = accept
+[22-Aug-2020 02:32:06 Asia/Jakarta] Order ID 15980383182094165667: transaction status = pending, fraud staus = accept
+[22-Aug-2020 02:33:09 Asia/Jakarta] Order ID 15980383182094165667: transaction status = settlement, fraud staus = accept
+[22-Aug-2020 02:46:45 Asia/Jakarta] Order ID 1598039193548069515: transaction status = pending, fraud staus = accept
+[22-Aug-2020 02:47:14 Asia/Jakarta] Order ID 1598039193548069515: transaction status = settlement, fraud staus = accept
+[22-Aug-2020 06:01:55 Asia/Jakarta] Order ID 1598050889827844246: transaction status = pending, fraud staus = accept
+[22-Aug-2020 06:03:52 Asia/Jakarta] Order ID 159805100033690604: transaction status = pending, fraud staus = accept
+[22-Aug-2020 21:37:18 Asia/Jakarta] Order ID 159805100033690604: transaction status = settlement, fraud staus = accept
+[22-Aug-2020 21:39:21 Asia/Jakarta] Order ID 15981071281152756656: transaction status = pending, fraud staus = accept
+[22-Aug-2020 21:40:15 Asia/Jakarta] Order ID 15981071281152756656: transaction status = settlement, fraud staus = accept
+[23-Aug-2020 02:23:15 Asia/Jakarta] Order ID 1598037773564024253: transaction status = expire, fraud staus = accept
+[23-Aug-2020 02:25:54 Asia/Jakarta] Order ID 1598037928989976305: transaction status = expire, fraud staus = accept
+[23-Aug-2020 06:01:58 Asia/Jakarta] Order ID 1598050889827844246: transaction status = expire, fraud staus = accept
+[23-Aug-2020 07:28:29 Asia/Jakarta] Order ID 1598142498702659996: transaction status = pending, fraud staus = accept
+[23-Aug-2020 07:28:56 Asia/Jakarta] Order ID 1598142498702659996: transaction status = settlement, fraud staus = accept
+[23-Aug-2020 07:37:56 Asia/Jakarta] Order ID 1598143060827890080: transaction status = pending, fraud staus = accept
+[23-Aug-2020 07:40:19 Asia/Jakarta] Order ID 1598143060827890080: transaction status = settlement, fraud staus = accept
+[23-Aug-2020 07:45:14 Asia/Jakarta] Order ID 15981434471635621686: transaction status = pending, fraud staus = accept
+[23-Aug-2020 07:45:31 Asia/Jakarta] Order ID 15981434471635621686: transaction status = settlement, fraud staus = accept
+[23-Aug-2020 09:50:20 Asia/Jakarta] Order ID 15981510111101571256: transaction status = pending, fraud staus = accept
+[24-Aug-2020 09:50:20 Asia/Jakarta] Order ID 15981510111101571256: transaction status = expire, fraud staus = accept
+[24-Aug-2020 10:34:24 Asia/Jakarta] Order ID 15982400042051359622: transaction status = pending, fraud staus = accept
+[24-Aug-2020 10:34:38 Asia/Jakarta] Order ID 15982400042051359622: transaction status = settlement, fraud staus = accept
+[24-Aug-2020 13:49:38 Asia/Jakarta] Order ID 1598251766587936767: transaction status = pending, fraud staus = accept
+[24-Aug-2020 13:49:48 Asia/Jakarta] Order ID 1598251766587936767: transaction status = settlement, fraud staus = accept
+[26-Aug-2020 20:30:27 Asia/Jakarta] Order ID 15984486171221299463: transaction status = pending, fraud staus = accept
+[26-Aug-2020 20:30:49 Asia/Jakarta] Order ID 15984486171221299463: transaction status = settlement, fraud staus = accept
+[26-Aug-2020 23:02:20 Asia/Jakarta] Order ID 15984577301225008104: transaction status = pending, fraud staus = accept
+[26-Aug-2020 23:03:04 Asia/Jakarta] Order ID 15984577731424455683: transaction status = pending, fraud staus = accept
+[26-Aug-2020 23:05:18 Asia/Jakarta] Order ID 15984579061221120227: transaction status = pending, fraud staus = accept
+[26-Aug-2020 23:05:43 Asia/Jakarta] Order ID 15984579261963955918: transaction status = pending, fraud staus = accept
+[26-Aug-2020 23:27:37 Asia/Jakarta] Order ID 15984592471956886091: transaction status = pending, fraud staus = accept
+[27-Aug-2020 00:13:54 Asia/Jakarta] Order ID 15984620261182022865: transaction status = pending, fraud staus = accept
+[27-Aug-2020 00:29:55 Asia/Jakarta] Order ID 15984629811902528815: transaction status = pending, fraud staus = accept
+[27-Aug-2020 00:48:36 Asia/Jakarta] Order ID 15984629811902528815: transaction status = settlement, fraud staus = accept
+[27-Aug-2020 00:49:42 Asia/Jakarta] Order ID 15984620261182022865: transaction status = settlement, fraud staus = accept
+[27-Aug-2020 15:00:26 Asia/Jakarta] Order ID 15985152061622375916: transaction status = pending, fraud staus = accept
+[27-Aug-2020 15:01:02 Asia/Jakarta] Order ID 15985152061622375916: transaction status = settlement, fraud staus = accept
+[27-Aug-2020 23:02:28 Asia/Jakarta] Order ID 15984577301225008104: transaction status = expire, fraud staus = accept
+[27-Aug-2020 23:03:09 Asia/Jakarta] Order ID 15984577731424455683: transaction status = expire, fraud staus = accept
+[27-Aug-2020 23:05:18 Asia/Jakarta] Order ID 15984579061221120227: transaction status = expire, fraud staus = accept
+[27-Aug-2020 23:05:48 Asia/Jakarta] Order ID 15984579261963955918: transaction status = expire, fraud staus = accept
+[27-Aug-2020 23:27:39 Asia/Jakarta] Order ID 15984592471956886091: transaction status = expire, fraud staus = accept
+[30-Aug-2020 09:57:38 Asia/Jakarta] Order ID 15987561792033865065: transaction status = pending, fraud staus = accept
+[30-Aug-2020 10:08:27 Asia/Jakarta] Order ID 15987561792033865065: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 10:20:15 Asia/Jakarta] Order ID 15987575371580976549: transaction status = pending, fraud staus = accept
+[30-Aug-2020 10:27:14 Asia/Jakarta] Order ID 15987580221598566405: transaction status = pending, fraud staus = accept
+[30-Aug-2020 10:31:16 Asia/Jakarta] Order ID 15987582371168771070: transaction status = pending, fraud staus = 
+[30-Aug-2020 10:31:29 Asia/Jakarta] Order ID 15987582371168771070: transaction status = settlement, fraud staus = 
+[30-Aug-2020 10:35:21 Asia/Jakarta] Order ID 15987575371580976549: transaction status = expire, fraud staus = accept
+[30-Aug-2020 10:42:22 Asia/Jakarta] Order ID 15987580221598566405: transaction status = expire, fraud staus = accept
+[30-Aug-2020 13:41:59 Asia/Jakarta] Order ID 15987697011408080889: transaction status = pending, fraud staus = accept
+[30-Aug-2020 13:42:12 Asia/Jakarta] Order ID 15987697011408080889: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 13:44:53 Asia/Jakarta] Order ID 15987698811432319999: transaction status = pending, fraud staus = accept
+[30-Aug-2020 13:45:06 Asia/Jakarta] Order ID 15987698811432319999: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:23:25 Asia/Jakarta] Order ID 1598772197886524285: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:23:48 Asia/Jakarta] Order ID 1598772197886524285: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:27:59 Asia/Jakarta] Order ID 1598772469640793774: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:29:44 Asia/Jakarta] Order ID 1598772469640793774: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:45:30 Asia/Jakarta] Order ID 15987735191868807978: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:45:38 Asia/Jakarta] Order ID 15987735191868807978: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:48:58 Asia/Jakarta] Order ID 1598773730585175114: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:49:15 Asia/Jakarta] Order ID 1598773730585175114: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:52:15 Asia/Jakarta] Order ID 1598773927274575530: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:52:22 Asia/Jakarta] Order ID 1598773927274575530: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:53:15 Asia/Jakarta] Order ID 159877398780575165: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:53:30 Asia/Jakarta] Order ID 159877398780575165: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 14:54:29 Asia/Jakarta] Order ID 15987740431300419781: transaction status = pending, fraud staus = 
+[30-Aug-2020 14:54:43 Asia/Jakarta] Order ID 15987740431300419781: transaction status = settlement, fraud staus = 
+[30-Aug-2020 14:55:22 Asia/Jakarta] Order ID 15987741171500507444: transaction status = pending, fraud staus = 
+[30-Aug-2020 14:55:36 Asia/Jakarta] Order ID 15987741171500507444: transaction status = settlement, fraud staus = 
+[30-Aug-2020 14:58:04 Asia/Jakarta] Order ID 15987742672004111066: transaction status = pending, fraud staus = accept
+[30-Aug-2020 14:58:12 Asia/Jakarta] Order ID 15987742672004111066: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 15:03:02 Asia/Jakarta] Order ID 1598774569257442986: transaction status = pending, fraud staus = accept
+[30-Aug-2020 16:16:09 Asia/Jakarta] Order ID 1598778945219521274: transaction status = pending, fraud staus = 
+[30-Aug-2020 16:16:16 Asia/Jakarta] Order ID 1598778945219521274: transaction status = settlement, fraud staus = 
+[30-Aug-2020 16:29:03 Asia/Jakarta] Order ID 1598779635168057072: transaction status = pending, fraud staus = accept
+[30-Aug-2020 16:36:42 Asia/Jakarta] Order ID 15987801801113159077: transaction status = pending, fraud staus = accept
+[30-Aug-2020 16:41:57 Asia/Jakarta] Order ID 15987805081491761426: transaction status = pending, fraud staus = accept
+[30-Aug-2020 16:42:07 Asia/Jakarta] Order ID 15987805081491761426: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 16:45:18 Asia/Jakarta] Order ID 15987807022052526309: transaction status = pending, fraud staus = 
+[30-Aug-2020 16:45:37 Asia/Jakarta] Order ID 15987807022052526309: transaction status = deny, fraud staus = 
+[30-Aug-2020 16:46:41 Asia/Jakarta] Order ID 15987807961066737786: transaction status = pending, fraud staus = accept
+[30-Aug-2020 16:46:42 Asia/Jakarta] Order ID 15987807961066737786: transaction status = settlement, fraud staus = accept
+[30-Aug-2020 16:53:49 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:53:51 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:53:53 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:55:39 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:55:42 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:55:43 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:57:41 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:57:44 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 16:57:45 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 17:00:26 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 17:00:33 Asia/Jakarta] Order ID : transaction status = , fraud staus = 
+[30-Aug-2020 17:03:51 Asia/Jakarta] Order ID 1598781816540682544: transaction status = pending, fraud staus = accept
+[30-Aug-2020 17:04:02 Asia/Jakarta] Order ID 1598781816540682544: transaction status = settlement, fraud staus = accept
+[31-Aug-2020 11:58:10 Asia/Jakarta] Order ID 15988498411013905632: transaction status = pending, fraud staus = accept
+[31-Aug-2020 11:58:30 Asia/Jakarta] Order ID 15988498411013905632: transaction status = settlement, fraud staus = accept
+[31-Aug-2020 11:59:54 Asia/Jakarta] Order ID 15988499871373835078: transaction status = pending, fraud staus = accept
+[31-Aug-2020 12:00:03 Asia/Jakarta] Order ID 15988499871373835078: transaction status = settlement, fraud staus = accept
+[31-Aug-2020 15:03:07 Asia/Jakarta] Order ID 1598774569257442986: transaction status = expire, fraud staus = accept
+[31-Aug-2020 16:29:09 Asia/Jakarta] Order ID 1598779635168057072: transaction status = expire, fraud staus = accept
+[31-Aug-2020 16:36:49 Asia/Jakarta] Order ID 15987801801113159077: transaction status = expire, fraud staus = accept
+[31-Aug-2020 16:50:35 Asia/Jakarta] Order ID 15988674211901251171: transaction status = pending, fraud staus = accept
+[31-Aug-2020 16:50:54 Asia/Jakarta] Order ID 15988674211901251171: transaction status = settlement, fraud staus = accept
+[31-Aug-2020 17:52:05 Asia/Jakarta] Order ID 15988711161292059484: transaction status = pending, fraud staus = accept
+[31-Aug-2020 17:52:31 Asia/Jakarta] Order ID 15988711161292059484: transaction status = settlement, fraud staus = accept
+[31-Aug-2020 19:59:31 Asia/Jakarta] Order ID 1598878745984870486: transaction status = pending, fraud staus = accept
+[31-Aug-2020 20:00:26 Asia/Jakarta] Order ID 1598878745984870486: transaction status = settlement, fraud staus = accept
+[01-Sep-2020 21:31:33 Asia/Jakarta] Order ID 1598970687199191966: transaction status = pending, fraud staus = accept
+[01-Sep-2020 21:31:39 Asia/Jakarta] Order ID 1598970687199191966: transaction status = settlement, fraud staus = accept
+[01-Sep-2020 21:34:08 Asia/Jakarta] Order ID 1598970832470164695: transaction status = pending, fraud staus = accept
+[01-Sep-2020 21:34:50 Asia/Jakarta] Order ID 1598970832470164695: transaction status = settlement, fraud staus = accept
+[02-Sep-2020 14:44:26 Asia/Jakarta] Order ID 1599032642360530109: transaction status = pending, fraud staus = accept
+[02-Sep-2020 14:44:40 Asia/Jakarta] Order ID 1599032642360530109: transaction status = settlement, fraud staus = accept
+[24-Sep-2020 16:24:33 Asia/Jakarta] Order ID 1600939423169459165: transaction status = pending, fraud staus = accept
+[24-Sep-2020 16:24:48 Asia/Jakarta] Order ID 1600939423169459165: transaction status = settlement, fraud staus = accept
+[26-Sep-2020 12:22:43 Asia/Jakarta] Order ID 1601097779813448938: transaction status = pending, fraud staus = accept
+[26-Sep-2020 12:22:56 Asia/Jakarta] Order ID 1601097779813448938: transaction status = settlement, fraud staus = accept
+[29-Sep-2020 14:23:45 Asia/Jakarta] Order ID 16013642181358977055: transaction status = pending, fraud staus = accept
+[29-Sep-2020 14:25:06 Asia/Jakarta] Order ID 16013643001606910357: transaction status = pending, fraud staus = accept
+[29-Sep-2020 14:25:16 Asia/Jakarta] Order ID 16013643001606910357: transaction status = settlement, fraud staus = accept
+[30-Sep-2020 14:23:49 Asia/Jakarta] Order ID 16013642181358977055: transaction status = expire, fraud staus = accept
+[01-Oct-2020 12:01:43 Asia/Jakarta] Order ID 16015284921668526730: transaction status = pending, fraud staus = accept
+[01-Oct-2020 12:02:20 Asia/Jakarta] Order ID 16015284921668526730: transaction status = settlement, fraud staus = accept
+[01-Oct-2020 19:13:28 Asia/Jakarta] Order ID 16015544341703697582: transaction status = pending, fraud staus = accept
